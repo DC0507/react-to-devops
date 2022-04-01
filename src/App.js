@@ -7,9 +7,7 @@ function App() {
       <MyNavBar></MyNavBar>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>This is a change</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
